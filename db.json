@@ -8,14 +8,17 @@
         "email": "vanshchavda328@gmail.com",
         "linkedin": "http://www.linkedin.com/in/vanshchavda07",
         "github": "https://github.com/itsvanshchavda",
-        "website": "https://www.vanshchavda.me"
+        "website": "https://www.vanshchavda.me",
+        "summary": "I'm a software developer specializing in full-stack development, particularly focusing on crafting exceptional web interfaces. Prioritizing user experience (UX), I utilize the MERN stack (MongoDB, Express, React, Node.js) alongside TypeScript to transform your concepts into reality. However, my expertise extends beyond these technologies. I am adept in various front-end libraries like Tailwind CSS, Bootstrap, and Material UI, enabling me to tailor the visual presentation according to your precise requirements."
       },
       "education": [
         {
           "institution": "Sir Bhavsinhji Polytechnic Institute",
           "location": "Bhavnagar, Gujarat",
           "degree": "Diploma in Information Technology",
-          "duration": "2021-2024"
+          "startdate": "02-2018",
+          "enddate": "02-2021",
+          "present": false
         }
       ],
       "experience": [
@@ -23,16 +26,19 @@
           "title": "Frontend Developer",
           "company": "Freelancer",
           "location": "Remote",
-          "duration": "March 2023 - May 2024",
+          "startdate": "02-2021",
+          "enddate": "03-2022",
+          "present": false,
           "description": "Developed and maintained responsive websites and web applications for clients ,  Collaborated with backend developers to design and implement APIs , Ensured cross-browser compatibility and optimized performance for all projects."
         },
         {
           "title": "Full Stack Developer",
           "company": "Freelancer",
           "location": "Remote",
-          "duration": "2021 - Present",
+          "startdate": "03-2022",
+          "enddate": "04-2023",
+          "present": false,
           "description": "Developed and maintained responsive websites and web applications for clients ,  Collaborated with backend developers to design and implement APIs , Ensured cross-browser compatibility and optimized performance for all projects."
-
         }
       ],
       "projects": [
@@ -48,7 +54,6 @@
           ],
           "link": "https://stack-blog-landing.vercel.app/",
           "description": "Developed and maintained responsive websites and web applications for clients ,  Collaborated with backend developers to design and implement APIs , Ensured cross-browser compatibility and optimized performance for all projects."
-
         },
         {
           "name": "Fusion Restaurant",
@@ -60,7 +65,6 @@
           ],
           "link": "https://fusion-restaurant.vercel.app/",
           "description": "Developed and maintained responsive websites and web applications for clients ,  Collaborated with backend developers to design and implement APIs , Ensured cross-browser compatibility and optimized performance for all projects."
-
         },
         {
           "name": "World News",
@@ -72,7 +76,6 @@
           ],
           "link": "https://github.com/itsvanshchavda/news-website-angular",
           "description": "Developed and maintained responsive websites and web applications for clients ,  Collaborated with backend developers to design and implement APIs , Ensured cross-browser compatibility and optimized performance for all projects."
-
         },
         {
           "name": "School Bazar",
@@ -84,45 +87,57 @@
           ],
           "link": "https://github.com/itsvanshchavda/news-website-angular",
           "description": "Developed and maintained responsive websites and web applications for clients ,  Collaborated with backend developers to design and implement APIs , Ensured cross-browser compatibility and optimized performance for all projects."
-
         }
       ],
-      "technicalSkills": {
-        "languages": [
-          "Python",
-          "Java",
-          "JavaScript",
-          "TypeScript",
-          "HTML",
-          "CSS",
-          "SCSS",
-          "SQL"
-        ],
-        "frameworks": [
-          "React JS",
-          "Next JS",
-          "Angular 16",
-          "Redux Toolkit (RTK)",
-          "Bootstrap 5",
-          "Tailwind CSS",
-          "Framer Motion"
-        ],
-        "backend": [
-          "Node.js",
-          "Express.js",
-          "MongoDB",
-          "MySQL"
-        ],
-        "tools": [
-          "Problem Solving (Critical Thinking)",
-          "Version Control (Git, GitHub)",
-          "IDEs (Visual Studio Code, Sublime Text)",
-          "Package Managers (npm)",
-          "Browser Developer Tools (Chrome DevTools)",
-          "Responsive Design Principles",
-          "Redux Dev Tools"
-        ]
-      },
+      "technicalSkills": [
+        {
+          "name": "Frontend",
+          "skills": [
+            "React JS",
+            "Redux Toolkit",
+            "TypeScript",
+            "Angular 16",
+            "Material UI",
+            "Tailwind CSS",
+            "Bootstrap"
+          ]
+        },
+        {
+          "name": "Backend",
+          "skills": [
+            "Node JS",
+            "Express JS",
+            "MongoDB",
+            "Mongoose",
+            "RESTful APIs",
+            "GraphQL",
+            "Apollo Server"
+          ]
+        },
+        {
+          "name": "DevOps",
+          "skills": [
+            "Docker",
+            "Kubernetes",
+            "Jenkins",
+            "Git",
+            "GitHub Actions",
+            "AWS",
+            "Azure"
+          ]
+        },
+        {
+          "name": "Testing",
+          "skills": [
+            "Jest",
+            "Mocha",
+            "Chai",
+            "Cypress",
+            "Jasmine",
+            "Karma"
+          ]
+        }
+      ],
       "achievementsAndCertifications": [
         {
           "title": "ZTM (Zero to Mastery) – Full Stack Developer",
@@ -138,7 +153,6 @@
           "title": "GitHub Pro member & GitHub Education Student",
           "year": "2023",
           "description": "GitHub Member "
-          
         }
       ]
     }
